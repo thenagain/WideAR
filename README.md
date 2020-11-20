@@ -14,7 +14,7 @@ For my purpose, DatasetMaker masks external side of video frame and makes data w
 ## Pix2Pix_WideAR
 **Pix2Pix_WideAR** learns how to fill external side of image.
 This is a example output of Pix2Pix_WideAR.
-![example_output](/img/example_output.jpg)
+![example_output](/img/example_output.png)
 
 ## Future Work
 - Realtime FoV Increasing in AR experience
